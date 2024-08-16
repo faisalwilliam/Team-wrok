@@ -5,6 +5,13 @@
         "age": 35,
         "height": 78,
         "city": "Bjurholm"
+        
+    },
+    {
+        "Namm": " Adam",
+    "age": 45,
+        "height":  78,
+        "city": "Bjurholm"
     }
-
+    
 ]
